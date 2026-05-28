@@ -3,3 +3,25 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#container {
+  width: 600px;
+  height: 600px;
+  border: 2px solid grey;
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.small__div {
+  border: 1px solid grey;
+  flex: 0 0 25%;
+  height: 25%; 
+}

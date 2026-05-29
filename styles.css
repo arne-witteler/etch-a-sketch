@@ -22,6 +22,6 @@ body {
 
 .small__div {
   border: 1px solid grey;
-  flex: 0 0 25%;
-  height: 25%; 
+  flex: 0 0 6.25%;
+  height: 6.25%;
 }

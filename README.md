@@ -4,7 +4,7 @@ A browser-based version of the classic Etch-a-Sketch toy, built as part of The O
 
 ## Preview
 
-![Etch-a-Sketch Preview](screenshot.png)
+![Etch-a-Sketch Preview](etchasketch.webp)
 
 ## Features
 
